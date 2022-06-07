@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/shamita_portfolio/static/css/main.6f27bcbb.css",
-    "main.js": "/shamita_portfolio/static/js/main.52914a7d.js",
+    "main.css": "/shamita_portfolio/static/css/main.eb6a5df3.css",
+    "main.js": "/shamita_portfolio/static/js/main.31a16230.js",
     "index.html": "/shamita_portfolio/index.html",
-    "main.6f27bcbb.css.map": "/shamita_portfolio/static/css/main.6f27bcbb.css.map",
-    "main.52914a7d.js.map": "/shamita_portfolio/static/js/main.52914a7d.js.map"
+    "main.eb6a5df3.css.map": "/shamita_portfolio/static/css/main.eb6a5df3.css.map",
+    "main.31a16230.js.map": "/shamita_portfolio/static/js/main.31a16230.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f27bcbb.css",
-    "static/js/main.52914a7d.js"
+    "static/css/main.eb6a5df3.css",
+    "static/js/main.31a16230.js"
   ]
 }
